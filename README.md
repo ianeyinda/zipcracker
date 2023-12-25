@@ -51,5 +51,5 @@ Exploring using multithreading or parallel processing techniques to potentially 
 Emphasizing the importance of using strong and unique passwords to protect zip files and sensitive data.
 
 ## OS supported
-linux
-windows - using the windows subsystem linux
+linux.
+windows - using the windows subsystem linux.
