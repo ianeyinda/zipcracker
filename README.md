@@ -9,18 +9,21 @@ This repository contains a bash script designed to crack zip files using a brute
 ## Usage
 -------------------
 Clone this repository:
-Bash
+```
 git clone https://github.com/ianeyinda/zipcracker.git
-
+```
 Navigate to the directory:
+```
 cd zipcracker
-
+```
 Change the permission of the script
+```
 chmod +x zipcracker.sh
-
+```
 Run the script, providing the path to the zip file as an argument:
+```
 ./zipcracker.sh /path/to/zipfile.zip /path/to/wordlist
-
+```
 ## Disclaimer
 ---------------------
 This script is intended for educational and ethical purposes only. Please use it responsibly and with respect to privacy and data security.
@@ -28,10 +31,10 @@ It's essential to consider the legal and ethical implications before using this 
 
 ## Requirements
 ---------------------
-bash shell
 run the script to install other requirements
-./requirements.sh
-
+```
+ bash ./requirements.sh
+```
 ## Optional:
 ----------------------
 A wordlist or list of potential passwords to enhance the cracking process.
