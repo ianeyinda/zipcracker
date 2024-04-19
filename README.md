@@ -1,6 +1,6 @@
 # zipCracker
 -------------------
-A simple bash script for cracking and unpacking zip files with password display
+A simple bash script used to perform a password attack  for cracking and unpacking zip files with password display
 
 ## Description
 -------------------
